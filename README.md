@@ -22,7 +22,7 @@
 <div> -> TroubleShooting , Refactoring </div>
 <div align="center" >
  <a href="https://velog.io/@hongchee">
-  <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="이름" width="450" height="200"/>
+  <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="이름" width="200" height="150"/>
  </a>
   
 </div>
