@@ -14,11 +14,16 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  
 </div>
 
-<div>
-  
+
+### MY Tech Blog
+
+<div> -> TroubleShooting , Refactoring </div>
+<div align="center" >
+ <a href="https://velog.io/@hongchee">
+  <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="이름" width="450" height="200"/>
+ </a>
   
 </div>
 
