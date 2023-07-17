@@ -20,11 +20,10 @@
 ### MY Tech Blog
 
 <div> -> TroubleShooting , Refactoring </div>
-<div align="center" >
+<div  >
  <a href="https://velog.io/@hongchee">
-  <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="이름" width="200" height="150"/>
+  <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="이름" width="320" height="130"/>
  </a>
-  
 </div>
 
 <!--
