@@ -21,8 +21,8 @@
 
 <div> -> TroubleShooting , Refactoring </div>
 <div  >
- <a href="https://velog.io/@hongchee">
-  <img src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" alt="이름" width="320" height="130"/>
+ <a href="https://blog.chanhong.pro">
+  <img src="https://velog.velcdn.com/images/hongchee/post/22cecdb6-3f8c-404c-ac3e-8fe3497bd1ec/image.jpeg" alt="이름" width="320" height="130"/>
  </a>
 </div>
 
