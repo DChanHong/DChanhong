@@ -32,33 +32,79 @@ WebSocket 기반 실시간 상담 플랫폼을 개발하고 있습니다.
 - 서버 상태와 실시간 UI 상태의 책임을 구분해 예측 가능한 구조를 설계합니다.
 - 실제 운영 환경에서 발생한 문제를 분석하고 서비스 복구 경험으로 전환합니다.
 
-## Featured Experience
+## Career Timeline
 
-### Realtime Support Platform
-
-> 약 80개 Next.js 홈페이지와 ERP 상담 관리자를 연결한 WebSocket 기반 사내 상담 플랫폼
-
-- `6,455건+`의 상담 운영 경험 — 2025.12.23 집계 기준
-- `19종`의 WebSocket 이벤트와 `58개+`의 외부 API 연동 함수 처리
-- React Query와 Zustand로 서버 상태와 실시간 UI 상태의 역할 분리
-- 공통 채팅 위젯을 scoped npm package로 배포해 약 80개 사이트에서 재사용
-- 브라우저 절전 및 모바일 WebView 전환에 대응하는 재연결 흐름 개선
-- 기존 Go 백엔드 구조를 분석해 운영 API, 파일 업로드와 AI 응답 연동 확장
-
-### SNN News CMS
-
-> 기사 작성부터 메인 노출까지 연결한 뉴스 플랫폼 관리자 CMS
-
-- PostgreSQL·Prisma 기반 관계형 데이터와 CRUD API 개발
-- CKEditor 기사 작성, 예약 발행, 기자·관련 기사·태그 관리 구현
-- Prisma Transaction으로 기사와 관계 데이터의 정합성 확보
-- AWS S3, sharp와 WebP 변환을 활용한 이미지 처리 흐름 구성
-
-### Internal ERP & Legal Services
-
-- 상태 전이 기반 인사평가 이의제기 시스템과 13개 REST API 개발
-- 사이드바 개인화, AICC 상담 관리와 내부 업무 페이지 운영
-- 법률 상담 질문지, 변호사 선택, 사용자·관리자 서비스 개발
+<table>
+  <tr>
+    <td width="150" align="center">
+      <strong>2025.04 — NOW</strong><br />
+      <sub>MAIN PROJECT</sub>
+    </td>
+    <td>
+      <strong>Realtime Support Platform</strong><br />
+      <sub>약 80개 Next.js 홈페이지와 ERP를 연결한 WebSocket 기반 상담 플랫폼</sub>
+      <br /><br />
+      <code>80+ Sites</code>
+      <code>6,455+ Consultations</code>
+      <code>19 WebSocket Events</code>
+      <br /><br />
+      React Query와 Zustand로 서버·실시간 상태의 역할을 분리하고,
+      scoped npm package 기반 공통 위젯과 WebView 재연결 흐름을 개발했습니다.
+      기존 Go 백엔드의 운영 API, 파일 업로드와 AI 응답 연동도 확장했습니다.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center">
+      <strong>2024.11 — 2025.03</strong><br />
+      <sub>CMS · API</sub>
+    </td>
+    <td>
+      <strong>SNN News CMS</strong><br />
+      <sub>기사 작성부터 메인 노출까지 연결한 뉴스 플랫폼 관리자 CMS</sub>
+      <br /><br />
+      <code>PostgreSQL</code>
+      <code>Prisma Transaction</code>
+      <code>AWS S3</code>
+      <br /><br />
+      기사·기자·관련 기사 관계 데이터와 CRUD API를 개발하고,
+      CKEditor, 예약 발행, 권한 관리, sharp·WebP 기반 이미지 처리 흐름을 구성했습니다.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center">
+      <strong>2023.09 — NOW</strong><br />
+      <sub>INTERNAL SERVICE</sub>
+    </td>
+    <td>
+      <strong>ERP & Groupware</strong><br />
+      <sub>사내 사용자의 업무 요청을 실제 운영 기능으로 전환</sub>
+      <br /><br />
+      <code>13 REST APIs</code>
+      <code>Workflow</code>
+      <code>AICC</code>
+      <br /><br />
+      상태 전이 기반 인사평가 이의제기, 사이드바 개인화,
+      AI 요약·메모·담당자 배정을 포함한 AICC 상담 관리 기능을 개발했습니다.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center">
+      <strong>2023 — 2024</strong><br />
+      <sub>EARLY CAREER</sub>
+    </td>
+    <td>
+      <strong>Legal Service Platforms</strong><br />
+      <sub>프론트엔드에서 API와 데이터 흐름까지 역할을 확장한 경험</sub>
+      <br /><br />
+      <code>User · Admin</code>
+      <code>API Routes</code>
+      <code>PostgreSQL</code>
+      <br /><br />
+      법률 상담 질문지, 변호사 선택, 상담 신청 플로우와 관리자 기능을 개발하고,
+      Next.js API Routes와 외부 알림 서비스 연동을 경험했습니다.
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
