@@ -28,9 +28,11 @@ WebSocket 기반 실시간 상담 플랫폼을 개발하고 있습니다.
   <img src="https://img.shields.io/badge/Operational_Troubleshooting-9A3412?style=flat-square&logo=sentry&logoColor=white" alt="Operational Troubleshooting" />
 </p>
 
-- 화면 구현에서 끝나지 않고 API, 데이터, 실시간 이벤트 흐름까지 연결합니다.
-- 서버 상태와 실시간 UI 상태의 책임을 구분해 예측 가능한 구조를 설계합니다.
-- 실제 운영 환경에서 발생한 문제를 분석하고 서비스 복구 경험으로 전환합니다.
+- Next.js와 React를 기반으로 사용자 서비스, 관리자 CMS, ERP 등 다양한 운영형 웹 서비스를 개발해왔습니다.
+
+- 특히 약 80개 홈페이지에 적용된 WebSocket 기반 실시간 상담 위젯과 운영 콘솔을 구축했으며, React Query/Zustand 기반 상태관리, 실시간 이벤트 처리, 파일 업로드 UX 등 운영 환경에 필요한 프론트엔드 기능을 구현해왔습니다.
+
+- 또한 Next.js API Routes, PostgreSQL/Prisma, 기존 Go 백엔드 구조를 활용해 운영 API 개선과 일부 신규 API 개발까지 함께 수행하며, 화면 구현에 머무르지 않고 서비스 운영 흐름 전반을 연결하는 개발을 지향합니다.
 
 ## Career Timeline
 
