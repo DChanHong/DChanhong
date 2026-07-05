@@ -8,11 +8,8 @@ Next.js와 TypeScript를 중심으로 사용자 서비스, 관리자 CMS, ERP와
 WebSocket 기반 실시간 상담 플랫폼을 개발하고 있습니다.
 
 <p>
-  <a href="https://blog.chanhong.pro">
-    <img src="https://img.shields.io/badge/Portfolio-blog.chanhong.pro-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://velog.io/@hongchee/posts">
-    <img src="https://img.shields.io/badge/Tech_Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Tech Blog" />
+  <a href="https://blog.dev-hong.it.kr/">
+    <img src="https://img.shields.io/badge/Blog_Portfolio-blog.dev--hong.it.kr-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog and Portfolio" />
   </a>
 </p>
 
@@ -95,19 +92,3 @@ WebSocket 기반 실시간 상담 플랫폼을 개발하고 있습니다.
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
-## Current Focus
-
-```text
-WebSocket Connection Life Cycle / Room Life Cycle
-Server State with React Query / Realtime UI State with Zustand
-Reusable Frontend Architecture / Operational UX / Troubleshooting
-```
-
-## Tech Blog
-
-트러블슈팅, 상태관리, 실시간 통신과 리팩터링 과정에서 얻은 판단을 기록합니다.
-
-<a href="https://blog.chanhong.pro">
-  <img src="https://velog.velcdn.com/images/hongchee/post/22cecdb6-3f8c-404c-ac3e-8fe3497bd1ec/image.jpeg" alt="Chanhong Studio 기술 블로그" width="720" />
-</a>
